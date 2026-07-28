@@ -114,6 +114,13 @@ The written voice should be:
 - personal without oversharing
 - artist-led rather than marketing-led
 
+## Verbal identity and pronunciation
+
+- SubRoot has caused repeated "what?" reactions when said aloud in person, including at June Jam. Likely a mix of loud-venue acoustics and an unfamiliar word shape rather than one single clear cause.
+- Innercha is one syllable longer than SubRoot, so it should get the same real-world test: say it aloud to people who haven't seen it written, and see how they spell or hear it back before finalizing wordmark direction.
+- A rehearsed one-line verbal intro ("I'm Innercha — like inertia") is worth having regardless of the written brand; it gives listeners an anchor word instead of a cold new sound.
+- "Nercha" is a candidate informal spoken nickname for loud or live settings. Not to be formalized as a handle, logo, or written brand element — let it develop organically if it does.
+
 ## Draft short descriptions
 
 ### One-line internal description

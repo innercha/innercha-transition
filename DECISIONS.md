@@ -80,6 +80,12 @@ Status: **Directional, not finalized**
 
 The identity should feel modern, organic, introspective, atmospheric, and premium—not narrowly “bass,” aggressive, or dependent on neon/glitch clichés.
 
+## D015 — Audience scale supports moving with confidence, not more caution
+
+Status: **Decided**
+
+Baseline recorded 2026-07-28: Spotify ~200 monthly listeners, SoundCloud ~3,250 followers, Instagram ~900 followers. At this scale, algorithmic risk (playlist mapping, "fans also like" disruption) is low — there isn't much weight built up to lose. SoundCloud is the one platform with a real, tight-knit audience worth handling carefully; Spotify and Instagram carry comparatively little at stake right now. The multi-quarter caution built into the roadmap is good hygiene but shouldn't be read as evidence the transition needs to be slow. Waiting mainly increases the audience size the eventual switch has to carry; it doesn't reduce risk further at this stage.
+
 ## D014 — The repo stays lightweight
 
 Status: **Decided**

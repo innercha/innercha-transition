@@ -18,7 +18,7 @@ Status: **Complete enough to proceed**
 Remaining safeguards:
 
 - [ ] Record both Spotify artist URLs and URIs.
-- [ ] Capture baseline screenshots and important public metrics.
+- [ ] Capture baseline screenshots and important public metrics. (Numbers recorded 2026-07-28 in PLATFORMS.md; screenshots still pending.)
 - [ ] Confirm the exact self-released catalog selected for migration.
 
 ## Phase 2 — Brand identity and platform strategy
