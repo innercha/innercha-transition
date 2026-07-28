@@ -1,0 +1,32 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Private exports and snapshots
+data/private/
+data/exports/
+data/snapshots/
+*.private.csv
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+
+# Dependencies and generated files
+node_modules/
+.venv/
+dist/
+build/
+coverage/
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+~$*
+
