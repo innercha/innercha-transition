@@ -16,6 +16,14 @@ Public explanations do not need to unpack every syllable. A concise meaning such
 
 The exact meaning of "cha" is intentionally left undefined. Pinning it down would drift toward etymology rather than the ambiguity that gives the name room to grow — the same way names like Bonobo or Tycho aren't literal.
 
+## Sound references
+
+Artists whose sound and vibe inform Innercha's direction — deliberately spanning a broad bass-music spectrum (halftime, deep dubstep, dark 140, organic/downtempo, experimental) rather than being confined to psychedelic bass specifically:
+
+ATYYA, CØNTRA, Of The Trees, PEEKABOO, Detre, Truth, Molecular, somethingvague, Desert Dwellers, Skysia, Mfinity, kll smth, Ferro Fluid, Detox Unit, Ashez, FLY, smth., Gallium, Waeys, Biome, BOP, Ivy Lab, DLR, Criso, CESCO, Tipper, DMVU, Lowcation, Supertask, parkbreezy, Duffrey, Monty, Visages.
+
+This list is reference material for sound and visual direction, not a target list for outreach (see LABELS.md for that).
+
 ### Finalized core themes (2026-07-29)
 
 Narrowed from a longer personal list through direct reflection, not invented from scratch:
@@ -173,7 +181,7 @@ The written voice should be:
 
 ### One-line internal description
 
-Electronic music shaped by inner motion, psychedelic detail, and evolving rhythm.
+Electronic music shaped by inner motion, evolving rhythm, and intricate sound design across the bass music spectrum.
 
 ### Simple meaning answer
 

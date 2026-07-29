@@ -9,9 +9,22 @@ Sound-fit and submission details below were checked 2026-07-29. Label rosters, s
 ### Gravitas Recordings
 
 - Austin, TX. "Doing good with good music." Organic bass/downtempo/experimental, frequently blends world instrumentation with electronic production — a close match for "psychedelic, some woven ethnic influence, not too heavy."
-- Roster includes Of The Trees, CloZee, AHEE, Entangled Mind (whose own description — "psychedelic release... Glitch-Hop and Downtempo bass" — reads very close to your sound).
+- Roster includes Of The Trees, CloZee, AHEE, Entangled Mind (whose own description — "psychedelic release... Glitch-Hop and Downtempo bass" — reads very close to your sound). Confirmed 2026-07-29: Skysia, Mfinity, and Lowcation from your broader sound-reference list have also released here — five of your reference artists now point to this one label.
 - **Currently accepting demos.** Submission form at gravitasrecordings.com/demos — prefers a private SoundCloud playlist link (which you already have), unreleased music only, plus a short note on why you want to work with them.
-- Priority: high. Direct sonic and roster overlap with Of The Trees, one of your named references.
+- Priority: high. Direct sonic and roster overlap with Of The Trees, one of your named references, reinforced by several more.
+
+### Odyzey
+
+- CloZee's own label. Confirmed 2026-07-29 as a home for three of your sound references: Skysia (Overture EP), Ashez, and Gallium.
+- Given CloZee's own prominence on Gravitas's roster, Odyzey sits in the same close-knit organic/world-bass corner of the scene as Gravitas and Desert Trax.
+- Submission process not confirmed — check CloZee's channels or Odyzey's own site/socials directly.
+- Priority: high on fit, confirm the actual submission path before sending anything.
+
+### Street Ritual
+
+- Described as having "deep-rooted history in the American bass scene." Home to ATYYA's early releases (Transcendance EP) and to Duffrey (glitch-hop/bass/psychedelic fusion, Denver).
+- Submission process not confirmed — check streetritual.bandcamp.com or their socials.
+- Priority: medium-high, worth a direct look given two reference-artist connections.
 
 ### Desert Trax
 
@@ -63,11 +76,45 @@ These surfaced through PEEKABOO's label history but are realistically out of rea
 
 - **Create Music Group** — a distribution, rights management, and publishing services company (like a larger-scale DistroKid/CD Baby with royalty recovery and admin services), not a curatorial label. Relevant later if distribution or publishing administration becomes a topic, not for this kind of outreach. Flagging so it doesn't get mistaken for a taste-making target.
 
+## UK drum & bass / dubstep prestige lane
+
+Surfaced repeatedly while researching the broader sound-reference list (Waeys, Monty, Visages, CESCO, Criso, BOP, Biome). These are real, respected, active labels — but more selective/prestige-tier than the organic-bass hub labels above, and further from the psychedelic-organic core toward straighter DnB/dubstep/halftime. Worth knowing about for the "broader bass, dark 140" direction, not necessarily first-round submissions.
+
+- **1985 Music** — Alix Perez's label. Home to Monty, Visages, and referenced via CESCO's scene. Recurred three times in research — clearly a real hub for the Toulouse/UK-adjacent halftime-DnB sound.
+- **Critical Music** — Waeys and Monty both release here. Long-running, respected UK drum & bass label.
+- **DEEP MEDi** — Mala's label. Criso's "Make Some Noise" EP was his first UK release here. Highly respected, very selective.
+- **Hospital Records / Med School** — BOP's home. Med School is Hospital's more experimental/ambient-leaning sublabel.
+- **Tempa** — one of Biome's labels, a long-standing dubstep imprint.
+
 ## Reference artist label history (context, not submission targets)
 
 - **CØNTRA (Ezra Arenson):** Deep Dark & Dangerous, DUPLOC, and his own imprint/self-release via contraslaps.bandcamp.com. Recent 2026 releases include collaborations with Pushloop, Abstrakt Sonance, and Shekina Sounds.
 - **ATYYA:** Merkaba Music (Aurical EP), Desert Trax (organic/psychedelic bass), Street Ritual (early releases), and self-released via ATYYA Music for major albums like Odyssey and The Indivisible.
 - **PEEKABOO:** Wakaan, Deadbeats, OWSLA, Cyclops Recordings, Sable Valley, mau5trap, Major Recordings/Warner Records, Create Music Group. Illustrates the arc from underground bass label to major-label tier — a useful long-term reference point for where the sound could eventually go, not a current target list.
+- **Detre (DÊTRE):** Detroit-based deep dubstep/bass; released "Subsurface" EP on Wubaholics.
+- **Molecular:** Likely MOLECULAR (Porto, Portugal), half of Forbidden Frequencies DNB — drum & bass focused.
+- **Skysia:** Denver-based melodic bass/chillstep/downtempo. Odyzey, Stereofox Records, Gravitas Recordings.
+- **Mfinity:** Ohio-origin, ambient/trip-hop/future garage/world bass fusion. High Vibe Records, Gravitas Recordings.
+- **kLL sMTH:** Denver, glitch-hop/DnB/dubstep with hip-hop/turntablism roots. Member of Ultrasloth (with BioLumigen and Duffrey) and kLL Bill (with Mr. Bill). No single confirmed label.
+- **Ferro Fluid:** Portland, OR, experimental electronic bass — appears mostly independent/self-released.
+- **Detox Unit (Joseph Roberts):** Denver, experimental bass/breakbeat/glitch/dubstep — largely independent.
+- **Ashez (Max Ashworth):** Auckland, NZ. Warner Music Australia, Deep Dark & Dangerous, Wakaan, Odyzey, Wormhole Music Group.
+- **FLY:** Los Angeles bass producer focused on sound system culture — no clear label surfaced.
+- **Gallium:** Bass/liquid/dubstep. SubCarbon Records (Ganja White Night's label), Odyzey, TRIPPY BEE RECORDS, Gravitas Recordings, and his own imprint Gallium Records.
+- **Waeys:** Amsterdam drum & bass. Critical Music, Overview, Shogun, Delta9, DIVIDID.
+- **Biome:** Manchester, UK — dark, atmospheric halfstep/dubstep. Tempa, Deep Dark & Dangerous, Smokin' Sessions, Kaizen, On the Edge.
+- **BOP:** Deep techno/minimal dubstep/IDM/ambient drum & bass. Hospital Records, Med School.
+- **Criso (Tyler Criso):** Raleigh, NC — dubstep/DnB/halftime/garage. DEEP MEDi (Mala's label).
+- **CESCO (Francesco Bisley):** Bristol, UK — multi-genre bass (DnB/dubstep/UKG). 1985 Music, Pineapple Records.
+- **DMVU:** Denver — bass/dubstep. Wakaan, Circus Records, Deadbeats, Quality Goods Records.
+- **Lowcation:** Organic, atmospheric bass. Gravitas Recordings.
+- **Supertask (Kyle Bishoff):** Oregon — downtempo bass, part of the Lab Group collective. Collaborated with Of The Trees.
+- **parkbreezy (Parker Williams):** Denver — downtempo bass/hip-hop fusion. Founded his own label/collective, all:Lo (2017), also released via Philos Records.
+- **Duffrey:** Denver — glitch-hop/bass/psychedelic fusion. Street Ritual, SSKWAN.
+- **Monty:** UK-born, based in Toulouse, France — helped pioneer the "Toulouse sound." 1985 Music, Critical Music, Vision, Flexout Audio.
+- **Visages:** French drum & bass collective (Toulouse). 1985 Music.
+- **somethingvague:** Couldn't confirm — no meaningful search results. May be small/underground enough to not be indexed, or styled differently than searched. Worth sending a link if you want this one looked into further.
+- **smth.:** Ambiguous — the one clear "SMTH" match found (an internationally-touring open-format DJ) doesn't fit the bass-scene context of the rest of this list, so it's probably a different act, possibly a small SoundCloud-only producer, or shorthand for kLL sMTH above. Worth a link to confirm.
 
 ## General submission notes
 
