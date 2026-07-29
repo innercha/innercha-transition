@@ -25,7 +25,7 @@ Remaining safeguards:
 
 Status: **Current**
 
-- [ ] Complete the identity prompts in BRAND.md. (Core conceptual questions answered 2026-07-29 — five themes, cha guidance, tracks; visual-direction questions and the five-prompt "should feel like" exercise still open.)
+- [ ] Complete the identity prompts in BRAND.md. (Core conceptual questions and the five-prompt "should feel like" exercise answered 2026-07-29 — five themes, cha guidance, tracks, feel/place answers; remaining open questions are visual-only: attributes, references, profile image approach, minimum kit, SubRoot visual continuity.)
 - [x] Define a short project statement. (2026-07-29 — see BRAND.md Working identity statement.)
 - [ ] Choose initial typography direction.
 - [ ] Choose an initial color and imagery direction.

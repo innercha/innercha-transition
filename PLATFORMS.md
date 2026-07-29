@@ -8,9 +8,9 @@ Use this file to record current state, desired state, dependencies, and executio
 |---|---|---|---|---|
 | Spotify | SubRoot and Innercha pages | Innercha active; SubRoot legacy | New music to Innercha; selectively migrate core catalog | Planned |
 | Spotify for Artists | Both pages claimed | Maintain control of both during transition | Monitor and correct mapping | Ready |
-| SoundCloud | Established SubRoot page plus obscure Innercha placeholder | Established page renamed Innercha | Preserve uploads/audience; transfer handle carefully | Partially started |
+| SoundCloud | Established SubRoot page plus obscure Innercha placeholder | Established page renamed Innercha | Preserve uploads/audience; transfer handle carefully | Partially started — display name already updated to `SubRoot \| Innercha` |
 | Instagram | Jeff SubRoot; hybrid, mostly music | Jeff \| Innercha, then mature Innercha presentation | Evolve existing account | Planned |
-| Facebook personal | Jeff SubRoot or hybrid identity | Personal real-name identity | Separate person from artist project where appropriate | Planned |
+| Facebook personal | Personal real-name identity | Personal real-name identity | Separate person from artist project where appropriate | Done (2026-07-29) |
 | Facebook artist Page | SubRoot | Innercha | Rename existing Page | Planned |
 | Bandcamp | SubRoot | Innercha | Prefer renaming existing presence | Planned |
 | YouTube | To inventory | Innercha | Preserve channel/history if established | Open |
@@ -69,7 +69,7 @@ The established SubRoot page becomes the canonical Innercha account. Its old tra
 
 ### Transitional naming
 
-- Early preparation: `SubRoot | Innercha`
+- Early preparation: `SubRoot | Innercha` — **done**, applied to the established account's display name a few weeks before 2026-07-29.
 - Public bridge: `Innercha — formerly SubRoot`
 - Mature state: `Innercha`
 
@@ -98,7 +98,7 @@ Preserve and evolve the existing account.
 
 ### Personal profile
 
-Return toward Jeff's personal name and use it as the person-level relationship account.
+Return toward Jeff's personal name and use it as the person-level relationship account. **Done 2026-07-29** — profile renamed to Jeff's real name.
 
 ### Artist Page
 

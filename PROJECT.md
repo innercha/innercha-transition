@@ -10,7 +10,7 @@ This file is the concise source of truth for Jeff, Codex, Claude, ChatGPT, and o
 
 ## Background
 
-Jeff is an Arizona-based electronic music producer whose solo catalog spans experimental bass, psychedelic bass, halftime, drum and bass, ambient, glitch hop, lo-fi, and related styles. He has built a modest reputation as SubRoot, played events including June Jam, and released music through labels including Shanti Planti.
+Jeff is an Arizona-based electronic music producer who spent most of his life in Massachusetts before relocating. His solo catalog spans experimental bass, psychedelic bass, halftime, drum and bass, ambient, glitch hop, lo-fi, and related styles. He has built a modest reputation as SubRoot, played events including June Jam, and released music through labels including Shanti Planti.
 
 SubRoot was originally a descriptive combination of sub-bass, roots, and musical root notes. Over time it began to feel genre-bound, less distinctive, and harder to communicate verbally. Multiple artists also use similar or identical names.
 

@@ -46,6 +46,18 @@ Note: an earlier draft referenced "psychedelic bass" directly. Removed deliberat
 
 This is a draft, not final public copy.
 
+## Five-prompt reflection (2026-07-29)
+
+Direct answers, raw material rather than final copy:
+
+- **Innercha should feel like:** stepping into a living ecosystem where every sound, texture, and rhythm is connected.
+- **Walking into:** a fresh but familiar experience each time.
+- **Listening should feel like:** leading the listener into motion — inner movement (an emotional journey) or external movement (dancing), or both.
+- **Leaving a set:** glowing with fulfillment, yet yearning for more.
+- **If Innercha were a place:** somewhere like Arizona — stark, diverse biomes sitting right next to each other — but with water woven in: ocean, lakes, rivers, swamp, drawing on a life spent mostly in Massachusetts before Arizona.
+
+The place answer is the strongest and most specific of the five — real, personal imagery (desert-and-water biome contrast) to build visual direction from, rather than abstract mood words.
+
 ## Private notes: why the change (not public copy)
 
 This section holds the SubRoot-comparison reasoning so it has a home without living inside public statements above.
@@ -90,6 +102,7 @@ Possible recurring themes:
 - liminal spaces
 - emergence
 - mist, forest, stone, water, sky, and topography
+- desert-to-wetland biome contrast — stark, adjacent transitions between arid and lush, drawing on Arizona and Massachusetts
 - organic systems and subtle geometry
 - consciousness, curiosity, and wonder
 - detailed movement at multiple scales
@@ -130,6 +143,7 @@ Explore:
 - topographic contours
 - macro natural textures
 - fog, moonlight, water, and mineral forms
+- desert and wetland imagery side by side — mesas, canyons, or arid textures directly adjacent to water, swamp, or lush green
 - subtle motion blur or flow fields
 - restrained geometric overlays
 
@@ -172,8 +186,8 @@ Innercha is the next chapter of Jeff's solo project, formerly released as SubRoo
 ## Questions to complete
 
 1. Which five attributes are essential?
-2. What should someone feel before hearing the music? (in progress — five-prompt reflection exercise, see SESSION_LOG.md)
-3. What should a live Innercha set feel like afterward? (in progress — same exercise)
+2. ~~What should someone feel before hearing the music?~~ Answered 2026-07-29 — see Five-prompt reflection above.
+3. ~~What should a live Innercha set feel like afterward?~~ Answered 2026-07-29: glowing with fulfillment, yet yearning for more.
 4. ~~Which existing tracks already sound most like Innercha?~~ Answered 2026-07-29: Reflection Chamber (unreleased), Secrets of the Sauce (unreleased), Sound Mind, Sky Ghost (unreleased). Three of four are unreleased — worth prioritizing as first-chapter Innercha material rather than leaving them in the vault.
 5. Which visual references feel truly personal rather than merely fashionable?
 6. Should the first profile image center Jeff, a wordmark, or release artwork?

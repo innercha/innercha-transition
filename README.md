@@ -12,6 +12,7 @@ The goal is to preserve the history, audience, and relationships built as SubRoo
 4. Develop the identity in [BRAND.md](BRAND.md).
 5. Track platform-specific work in [PLATFORMS.md](PLATFORMS.md).
 6. Check [SESSION_LOG.md](SESSION_LOG.md) for recent working notes.
+7. Track release and label outreach in [LABELS.md](LABELS.md).
 
 ## Current focus
 
