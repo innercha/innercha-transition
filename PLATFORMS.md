@@ -18,7 +18,7 @@ Use this file to record current state, desired state, dependencies, and executio
 | Email | innerchasound@gmail.com secured | Primary public artist contact | Configure when ready | Ready |
 | Website/domain | Not confirmed | Optional Innercha site | Research later; not a blocker | Later |
 
-## Baseline audience (recorded 2026-07-28)
+## Baseline audience (recorded 2026-07-29)
 
 - Spotify monthly listeners: ~200
 - SoundCloud followers: ~3,250

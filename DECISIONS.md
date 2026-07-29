@@ -80,15 +80,21 @@ Status: **Directional, not finalized**
 
 The identity should feel modern, organic, introspective, atmospheric, and premium—not narrowly “bass,” aggressive, or dependent on neon/glitch clichés.
 
-## D015 — Audience scale supports moving with confidence, not more caution
-
-Status: **Decided**
-
-Baseline recorded 2026-07-28: Spotify ~200 monthly listeners, SoundCloud ~3,250 followers, Instagram ~900 followers. At this scale, algorithmic risk (playlist mapping, "fans also like" disruption) is low — there isn't much weight built up to lose. SoundCloud is the one platform with a real, tight-knit audience worth handling carefully; Spotify and Instagram carry comparatively little at stake right now. The multi-quarter caution built into the roadmap is good hygiene but shouldn't be read as evidence the transition needs to be slow. Waiting mainly increases the audience size the eventual switch has to carry; it doesn't reduce risk further at this stage.
-
 ## D014 — The repo stays lightweight
 
 Status: **Decided**
 
 This is a creative operations notebook, not a full application. Avoid unnecessary boards, CI, infrastructure, and automation.
+
+## D015 — Audience scale supports moving with confidence, not more caution
+
+Status: **Decided**
+
+Baseline recorded 2026-07-29: Spotify ~200 monthly listeners, SoundCloud ~3,250 followers, Instagram ~900 followers. At this scale, algorithmic risk (playlist mapping, "fans also like" disruption) is low — there isn't much weight built up to lose. SoundCloud is the one platform with a real, tight-knit audience worth handling carefully; Spotify and Instagram carry comparatively little at stake right now. The multi-quarter caution built into the roadmap is good hygiene but shouldn't be read as evidence the transition needs to be slow. Waiting mainly increases the audience size the eventual switch has to carry; it doesn't reduce risk further at this stage.
+
+## D016 — Core brand themes are finalized
+
+Status: **Decided**
+
+Five themes, reached through direct reflection rather than invented from scratch: inner motion, transformation, perception, organic systems, emotional depth. Flow state and "inner paths to outer space" are supporting phrases, not pillars. The meaning of "cha" stays intentionally undefined. Public statements (bios, artist statements, announcement copy) describe Innercha on its own terms — no genre reference, no SubRoot comparison. SubRoot-comparison reasoning stays in BRAND.md's private notes section. Full detail lives in BRAND.md.
 

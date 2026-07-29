@@ -18,15 +18,15 @@ Status: **Complete enough to proceed**
 Remaining safeguards:
 
 - [ ] Record both Spotify artist URLs and URIs.
-- [ ] Capture baseline screenshots and important public metrics. (Numbers recorded 2026-07-28 in PLATFORMS.md; screenshots still pending.)
+- [ ] Capture baseline screenshots and important public metrics. (Numbers recorded 2026-07-29 in PLATFORMS.md; screenshots still pending.)
 - [ ] Confirm the exact self-released catalog selected for migration.
 
 ## Phase 2 — Brand identity and platform strategy
 
 Status: **Current**
 
-- [ ] Complete the identity prompts in BRAND.md.
-- [ ] Define a short project statement.
+- [ ] Complete the identity prompts in BRAND.md. (Core conceptual questions answered 2026-07-29 — five themes, cha guidance, tracks; visual-direction questions and the five-prompt "should feel like" exercise still open.)
+- [x] Define a short project statement. (2026-07-29 — see BRAND.md Working identity statement.)
 - [ ] Choose initial typography direction.
 - [ ] Choose an initial color and imagery direction.
 - [ ] Define profile image and banner requirements.

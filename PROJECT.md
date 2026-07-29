@@ -57,6 +57,7 @@ Every recommendation should support these principles:
 - Decision made: the active solo project will become **Innercha**.
 - Name exploration and lineup visualization are complete.
 - Outside-scene listener test was positive; the inertia association was independently recognizable.
+- Core brand themes finalized (2026-07-29): inner motion, transformation, perception, organic systems, emotional depth. See BRAND.md and DECISIONS.md (D016).
 
 ### Spotify and DistroKid
 
@@ -105,12 +106,12 @@ Spotify discovery and catalog auditing are sufficiently complete to move forward
 
 ## Immediate next actions
 
-1. Complete the prompts in [BRAND.md](BRAND.md).
+1. Finish the remaining prompts in [BRAND.md](BRAND.md) — core conceptual questions are answered; visual-direction questions and the five-prompt "should feel like" exercise are still open.
 2. Confirm desired handles and account states in [PLATFORMS.md](PLATFORMS.md).
-3. Save both Spotify artist URLs/URIs and baseline screenshots.
+3. Save both Spotify artist URLs/URIs and baseline screenshots (audience baseline numbers already recorded 2026-07-29 in PLATFORMS.md).
 4. Plan the SoundCloud handle handoff without deleting the placeholder account.
 5. Draft transitional bios and announcement language without publishing them yet.
-6. Continue making music; the operational project should not replace creative output.
+6. Prioritize finishing and releasing Reflection Chamber, Secrets of the Sauce, and Sky Ghost — these are the tracks that most sound like Innercha, and they're currently the best proof-of-concept for the whole brand direction.
 
 ## Success criteria
 

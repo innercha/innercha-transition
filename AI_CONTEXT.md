@@ -24,6 +24,7 @@ Before recommending work:
 - State uncertainty when platform behavior is not guaranteed.
 - Do not assume Spotify for Artists private analytics are available from Spotify's public API.
 - Help Jeff keep making music; documentation should support action, not become procrastination.
+- Keep BRAND.md's private/public split intact: SubRoot comparisons stay in its Private notes section. Public statements, bios, and announcement copy should not reference SubRoot or name a specific genre — a genre reference already had to be caught and removed once.
 
 ## Communication style
 
