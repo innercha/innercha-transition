@@ -166,6 +166,17 @@ Drafted for testing in Codex's image generation — built from the palette, imag
 - **Portrait-integrated:** "A lone silhouetted figure standing at the exact boundary line where dry desert terrain meets still wetland water, seen from behind or in profile so the face isn't detailed — the person appears small and contemplative within the vast landscape, blending into the scene rather than posed for a portrait. Muted charcoal silhouette against a backdrop lit in dusk amber and fog-blue tones, with soft mist rising off the water. Restrained, cinematic, quiet — observational rather than heroic. No text, no logos. Square or vertical crop." Note: this is a generic silhouette to test the stylistic approach, not Jeff's actual likeness — testing whether a real photo of him works in this visual world is a separate compositing exercise, not a text-to-image prompt.
 - Deliberately avoided the word "psychedelic" in all five prompts above, even as a soft modifier — image generators tend to read it as a cue toward maximalist festival-art cliché, which is exactly what "restrained" is trying to protect against. Fine as internal shorthand elsewhere in this document; not going in generation prompts.
 
+### First batch results (2026-07-29)
+
+Generated via Codex, saved in assets/references/ with dated filenames. Critique:
+
+- **Portrait-integrated** and **topographic/mineral** were the strongest — a figure standing exactly on the biome boundary line reads as identity, not just scenery, and the aerial erosion-pattern texture is abstract enough to avoid feeling like stock landscape photography.
+- **Primary desert-to-wetland landscape** is beautiful but reads as generic epic-fantasy/game concept art — a real instance of the risk Codex flagged, not just a style preference. Needs a rework, likely less "epic vista," more specific and restrained.
+- **Fog and moonlight** drifted past the brief — the prompt explicitly asked for restrained, not gothic or horror-styled, and the result (isolated dark spire, full moon, black water) reads closer to horror key art. Re-run with that constraint pushed harder.
+- **Abstract organic/motion** is well executed but resembles a very common "flowing marbled, neural-branching" aesthetic seen across wellness and meditation branding recently — usable, but not distinctly Innercha's without pushing the prompt further from that genre.
+- Cross-batch pattern: four of five results lean warm/golden-hour dominant; only the moonlight piece goes cool and dark. The palette is evenly split warm/cool — worth deliberately testing a cooler, fog-blue-and-charcoal-led variation next round so that's a real choice rather than a generation default.
+- None of the five carry an explicit "electronic music" signifier — expected and fine, since the plan is a stable wordmark anchoring identity while imagery stays abstract and atmospheric.
+
 ## Logo approach
 
 Start with a strong wordmark before designing a symbol. The name already has useful rhythm and letter shape. A mark should emerge from repeated use rather than become a launch blocker.
