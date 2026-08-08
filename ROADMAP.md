@@ -35,6 +35,10 @@ Status: **Current**
 - [ ] Map the SoundCloud placeholder-to-main-account handoff.
 - [ ] Draft, but do not publish, announcement copy.
 
+- [ ] Complete the minimum viable Innercha brand kit. Linear: **JFF-179**.
+- [ ] Choose the first Innercha release package and finish the selected priority demos. Linear: **JFF-178**.
+- [ ] Tailor the first label-outreach round to the selected tracks and package. Linear: **JFF-182**; blocked by JFF-178.
+
 Exit condition: the desired public identity is clear enough that account changes can be executed consistently.
 
 ## Phase 3 — Prepare the ecosystem
@@ -47,6 +51,10 @@ Exit condition: the desired public identity is clear enough that account changes
 - [ ] Test the SoundCloud handle release and claim sequence safely.
 - [ ] Prepare temporary `formerly SubRoot` language.
 - [ ] Give close supporters and key professional contacts a respectful heads-up shortly before launch.
+- [ ] Prepare an EPK content and press-asset kit in this repository. Linear: **JFF-183**; blocked by JFF-179 and JFF-178.
+- [ ] Hand approved EPK copy/assets to `audiopulse-portfolio` for the planned `/innercha` route. AudioPulse Linear: **JFF-188**.
+- [ ] Test the actual Rekordbox USB and performance workflow. Linear: **JFF-180**.
+- [ ] Write a minimal, accurate rider only after the hardware test; keep DJ-set and live-set requirements distinct. Linear: **JFF-184**; blocked by JFF-180.
 
 ## Phase 4 — Core platform and catalog transition
 
@@ -78,6 +86,5 @@ Exit condition: the desired public identity is clear enough that account changes
 
 - Contact labels about old credits only when there is a natural reason.
 - Build optional public-data tooling or analytics snapshots.
-- Consider a website and domain.
+- Consider whether Innercha eventually needs a separate domain. The first EPK destination is the planned `/innercha` route on `audiopulse.app`.
 - Develop a deeper visual system after the core identity is in use.
-

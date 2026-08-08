@@ -98,3 +98,20 @@ Status: **Decided**
 
 Five themes, reached through direct reflection rather than invented from scratch: inner motion, transformation, perception, organic systems, emotional depth. Flow state and "inner paths to outer space" are supporting phrases, not pillars. The meaning of "cha" stays intentionally undefined. Public statements (bios, artist statements, announcement copy) describe Innercha on its own terms — no genre reference, no SubRoot comparison. SubRoot-comparison reasoning stays in BRAND.md's private notes section. Full detail lives in BRAND.md.
 
+## D017 — AudioPulse will host the first dedicated Innercha EPK page
+
+Status: **Decided**
+
+The first dedicated Innercha web destination will be `/innercha` on `audiopulse.app`. This repository owns the factual content and approved assets; `audiopulse-portfolio` owns implementation. The route may remain outside the primary navigation at first so it can support label, booking, and professional outreach without forcing the broader public transition early.
+
+## D018 — EPK and rider work will be sequenced, not bundled into the brand launch
+
+Status: **Decided**
+
+The EPK content kit follows the minimum visual kit and release-package choice. A technical rider follows an actual Rekordbox/hardware workflow test and must distinguish DJ-set needs from any future live-set needs. The rider is useful professional infrastructure, but it is not a blocker for establishing the Innercha identity.
+
+## D019 — Project and credit boundaries stay explicit
+
+Status: **Decided**
+
+Innercha is Jeff's active solo identity. Icaro remains the separate collaboration with Pat. Time Juice refers to the three-member project and should not be collapsed into either solo or duo branding. Shared assets and dates can be coordinated without merging the projects' identities or roadmaps.

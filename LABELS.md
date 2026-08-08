@@ -6,6 +6,13 @@ Sound-fit and submission details below were checked 2026-07-29. Label rosters, s
 
 ## Strong candidates
 
+### The Rust Music
+
+- Strong fit for adventurous bass music and a useful candidate for the selected Innercha release package.
+- Official submission guidance was checked 2026-08-08: send one private playlist or folder with a short note covering style, track count, completion/mastering/art status, the release concept and goals, and why The Rust is the right partner. They favor cohesive EPs and albums over loose singles and ask artists to disclose meaningful AI contribution.
+- Do not send the entire work-in-progress archive by default. Choose the package first under **JFF-178**, then tailor the submission under **JFF-182**.
+- Priority: high enough for the first tailored-outreach round, subject to final track fit.
+
 ### Gravitas Recordings
 
 - Austin, TX. "Doing good with good music." Organic bass/downtempo/experimental, frequently blends world instrumentation with electronic production — a close match for "psychedelic, some woven ethnic influence, not too heavy."
@@ -44,7 +51,7 @@ Sound-fit and submission details below were checked 2026-07-29. Label rosters, s
 
 ### Shanti Planti
 
-- Already an existing relationship (released Infinite Edges here as SubRoot; see CATALOG.md and DECISIONS.md D008). Describes itself as an "auditory collective of experimental midtempo bass" — matches your BPM range well.
+- Already an existing relationship (released the four-track **Infinite Edges** EP here as SubRoot on **2026-03-21**; see CATALOG.md and DECISIONS.md D008). Describes itself as an "auditory collective of experimental midtempo bass" — matches your BPM range well.
 - Natural, warm reconnect rather than a cold submission — worth mentioning the Innercha transition when there's a real reason to talk (e.g., sharing the new album), per D008.
 - Priority: high, but relationship-based rather than demo-queue based.
 
@@ -122,3 +129,4 @@ Surfaced repeatedly while researching the broader sound-reference list (Waeys, M
 - Submit unreleased music only; most labels explicitly ask for this.
 - A short, specific note on why the label is a fit (not a form letter) matters more than production polish at this stage. Naming the overlap with an artist already on their roster (e.g., Of The Trees at Gravitas, ATYYA at Desert Trax) is a stronger opener than a generic pitch.
 - Track more candidates here as they come up rather than letting them live only in a group chat or your notes app.
+- Package selection comes before outreach. Use the chosen tracks' actual character to rank labels instead of pitching one broad album description everywhere. Linear: **JFF-178** → **JFF-182**.

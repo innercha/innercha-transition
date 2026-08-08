@@ -69,14 +69,13 @@ Do not commit private exports unless intentionally sanitized.
 
 ## Website ideas
 
-- Minimal landing page
-- Music and live clips
-- Short meaning/story
-- Mailing list
-- Booking contact
-- Archive note connecting SubRoot to Innercha
+- The first dedicated destination is now planned: `/innercha` on `audiopulse.app`.
+- This repository owns approved copy, music/live clips, biography, booking contact, press assets, and the archive bridge connecting SubRoot to Innercha.
+- `audiopulse-portfolio` owns page implementation. Track content preparation in **JFF-183** and site implementation in **JFF-188**.
+- Keep the first version concise and useful for label/booking outreach. A separate domain and mailing-list system remain later possibilities.
 
 ## Icaro
 
 Icaro is a separate collaborative project with Pat. Its low-pressure reawakening can coexist with Innercha. Do not merge its identity or roadmap into this transition repository unless a shared asset or schedule genuinely requires coordination.
 
+Time Juice is the three-member project. Keep its credits distinct from both Innercha and Icaro; the lightweight documentation task is tracked as **JFF-181**.

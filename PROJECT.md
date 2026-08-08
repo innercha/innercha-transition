@@ -113,6 +113,18 @@ Spotify discovery and catalog auditing are sufficiently complete to move forward
 5. Draft transitional bios and announcement language without publishing them yet.
 6. Prioritize finishing and releasing Reflection Chamber, Secrets of the Sauce, and Sky Ghost — these are the tracks that most sound like Innercha, and they're currently the best proof-of-concept for the whole brand direction.
 
+## Tracked execution and cross-project ownership
+
+- Complete the minimum viable visual brand kit. Linear: **JFF-179**.
+- Choose the first Innercha release package and finish the strongest priority demos, led by Reflection Chamber, Secrets of the Sauce, Sound Mind, and Sky Ghost. Linear: **JFF-178**.
+- Refresh the shortlist and prepare track-specific label submissions after the release package is chosen. Linear: **JFF-182**.
+- Assemble the factual EPK content and approved press assets here. Linear: **JFF-183**.
+- `audiopulse-portfolio` owns the technical implementation of the planned `/innercha` route on `audiopulse.app`. AudioPulse Linear: **JFF-188**.
+- The route may launch outside the primary navigation initially; it does not trigger a broad site-wide rename before the coordinated bridge is approved. Transition planning: **JFF-185**; AudioPulse changes: **JFF-186**.
+- Test the real Rekordbox USB and performance workflow before writing a technical rider. Linear: **JFF-180**, then **JFF-184**.
+
+This repository remains the source of truth for Innercha identity, release strategy, labels, bios, EPK copy, approved assets, platform transition, and performance requirements.
+
 ## Success criteria
 
 - Existing listeners understand that SubRoot became Innercha.
@@ -126,4 +138,3 @@ Spotify discovery and catalog auditing are sufficiently complete to move forward
 ## Sensitive information
 
 Do not commit passwords, access tokens, API secrets, private analytics exports, personal addresses, or private industry correspondence. Use `.env` locally for secrets and keep private exports outside Git unless deliberately sanitized.
-
